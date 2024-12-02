@@ -1,0 +1,17 @@
+[
+   {
+      "branch"     : "lineage-21",
+      "repository" : "KumarRohit1423/android_kernel_realme_mt6785",
+      "target_path": "kernel/realme/mt6785"
+   },
+   {
+      "branch"     : "lineage-20",
+      "repository" : "realme-mt6785-devs/proprietary_vendor_realme",
+      "target_path": "vendor/realme"
+   },
+   {
+      "branch"     : "master",
+      "repository" : "realme-mt6785-devs/proprietary_vendor_realme-firmware",
+      "target_path": "vendor/realme-firmware"
+   }
+]
